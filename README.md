@@ -1,1 +1,1 @@
-https://h4-harshh.github.io/OIBSIP/master/project1/index.html
+https://h4-harshh.github.io/OIBSIP/blob/master/project1/index.html
